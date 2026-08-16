@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-fz1ldg.coloktoto8jpy.cyou/sitemap.xml
